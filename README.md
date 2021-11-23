@@ -1,2 +1,3 @@
 # Accounting_Cycle_Project
 Accounting project which allows you to input unadjusted/adjusting journal entries, automatically assemble a trial balance, and automatically assemble financial statements. Will be making a version in the future that incorporates blockchain technology. If this is your first time starting it up, make sure journal entries match and you create a new storage file via the corresponding command in the program or else it will not work. Pretty proud that I was able to make this without having ever taken a computer science course.
+Note: This is project version I used to teach Python to PSU Accounting Society
